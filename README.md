@@ -1,8 +1,10 @@
-# A system for temporal ASP with Preferences combining asprin and meta-programming ⌚🫶🏼
+# A system for temporal ASP with Preferences ⌚🫶🏼
 
-This repository contains a prototype system t-asprin for temporal ASP with Preferences.
+This repository includes the system t-asprin for temporal ASP with Preferences.
 
-To illustrate the usage of the system, we model three classic planning problems — **dinner**, **monkey**, and **travel** — drawing from two foundational papers:
+t-asprin combines [asprin](https://github.com/potassco/asprin) with meta-programming in [clingo](https://github.com/potassco/clingo).
+
+To illustrate the usage of t-asprin, we model three classic planning problems — **dinner**, **monkey**, and **travel** — drawing from two foundational papers:
 
 - Bienvenu, M., Fritz, C., & McIlraith, S. A. (2011). *Specifying and computing preferred plans*. Artificial Intelligence, 175(7–8), 1308–1345.  
   🔗 [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0004370210002109)
