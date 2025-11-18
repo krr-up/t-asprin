@@ -1,8 +1,10 @@
 # A system for temporal ASP with Preferences ⌚🫶🏼
 
-This repository includes the system t-asprin for temporal ASP with Preferences.
+This repository contains the system t-asprin for temporal ASP with Preferences.
 
 t-asprin combines [asprin](https://github.com/potassco/asprin) with meta-programming in [clingo](https://github.com/potassco/clingo).
+
+The approach is described in this short [paper](docs/taasp25.pdf) for [TAASP'25](https://taasp.at/2025).
 
 To illustrate the usage of t-asprin, we model three classic planning problems — **dinner**, **monkey**, and **travel** — drawing from two foundational papers:
 
