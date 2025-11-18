@@ -11,4 +11,4 @@ To illustrate this, we model three classic planning problems — **dinner**, **m
   🔗 [Cambridge University Press](https://www.cambridge.org/core/journals/theory-and-practice-of-logic-programming/article/planning-with-preferences-using-logic-programming/441D04E11B5B0008367591DA813382A7)
 
 For a full walkthrough and explanation, check out the accompanying Jupyter notebook:  
-👉 [Launch on Binder](https://mybinder.org/v2/gh/HannahSteinbach/asprin-telingo/main?filepath=asprin-telingo.ipynb)
+👉 [Launch on Binder](https://mybinder.org/v2/gh/krr-up/t-asprin/main?filepath=asprin-telingo.ipynb)
