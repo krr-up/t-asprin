@@ -1,4 +1,4 @@
-# A system for temporal ASP with Preferences combining asprin meta-programming ⌚🫶🏼
+# A system for temporal ASP with Preferences combining asprin and meta-programming ⌚🫶🏼
 
 This repository contains a prototype system t-asprin for temporal ASP with Preferences.
 
